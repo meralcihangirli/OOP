@@ -1,0 +1,7 @@
+E:\Tobeto\CSharp\OOP\OOP\bin\Debug\OOP.exe.config
+E:\Tobeto\CSharp\OOP\OOP\bin\Debug\OOP.exe
+E:\Tobeto\CSharp\OOP\OOP\bin\Debug\OOP.pdb
+E:\Tobeto\CSharp\OOP\OOP\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+E:\Tobeto\CSharp\OOP\OOP\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+E:\Tobeto\CSharp\OOP\OOP\obj\Debug\OOP.exe
+E:\Tobeto\CSharp\OOP\OOP\obj\Debug\OOP.pdb
