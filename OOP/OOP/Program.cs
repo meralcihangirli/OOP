@@ -13,10 +13,24 @@ namespace OOP
         {
             //InterfacesIntro();
 
-            CustomerManager customerManager = new CustomerManager();
-            customerManager.Add(new SqlServerCustomerDal());
+            // Demo();
+            //Poliformizim methodlara sabit görevler vermek yerine onlara çok biçimli (polimorf) davranacak şekilde bir esneklik vermektir.
+
+            ICustomerDal[] customerDals = new ICustomerDal[3]
+            { new SqlServerCustomerDal(), new OracleCustomerDal() ,new MySqlCustomerDal()};
+
+            foreach (var customerDal in customerDals)
+            {
+                customerDal.Add();
+            }
 
             Console.ReadLine();
+        }
+
+        private static void Demo()
+        {
+            CustomerManager customerManager = new CustomerManager();
+            customerManager.Add(new SqlServerCustomerDal());
         }
 
         private static void InterfacesIntro()
@@ -100,7 +114,7 @@ namespace OOP
             {
                 Console.WriteLine(person.FirstName);
                 Console.WriteLine(person.LastName);
-               
+
 
             }
         }
