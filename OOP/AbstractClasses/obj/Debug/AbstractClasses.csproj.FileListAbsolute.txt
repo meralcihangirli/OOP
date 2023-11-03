@@ -1,0 +1,7 @@
+E:\Tobeto\CSharp\OOP\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+E:\Tobeto\CSharp\OOP\AbstractClasses\bin\Debug\AbstractClasses.exe
+E:\Tobeto\CSharp\OOP\AbstractClasses\bin\Debug\AbstractClasses.pdb
+E:\Tobeto\CSharp\OOP\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
+E:\Tobeto\CSharp\OOP\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+E:\Tobeto\CSharp\OOP\AbstractClasses\obj\Debug\AbstractClasses.exe
+E:\Tobeto\CSharp\OOP\AbstractClasses\obj\Debug\AbstractClasses.pdb
