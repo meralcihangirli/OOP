@@ -1,0 +1,7 @@
+E:\Tobeto\CSharp\OOP\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+E:\Tobeto\CSharp\OOP\RecapDemo2\bin\Debug\RecapDemo2.exe
+E:\Tobeto\CSharp\OOP\RecapDemo2\bin\Debug\RecapDemo2.pdb
+E:\Tobeto\CSharp\OOP\RecapDemo2\obj\Debug\RecapDemo2.csproj.AssemblyReference.cache
+E:\Tobeto\CSharp\OOP\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+E:\Tobeto\CSharp\OOP\RecapDemo2\obj\Debug\RecapDemo2.exe
+E:\Tobeto\CSharp\OOP\RecapDemo2\obj\Debug\RecapDemo2.pdb
