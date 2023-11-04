@@ -1,0 +1,7 @@
+E:\Tobeto\CSharp\OOP\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe.config
+E:\Tobeto\CSharp\OOP\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe
+E:\Tobeto\CSharp\OOP\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.pdb
+E:\Tobeto\CSharp\OOP\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.AssemblyReference.cache
+E:\Tobeto\CSharp\OOP\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+E:\Tobeto\CSharp\OOP\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.exe
+E:\Tobeto\CSharp\OOP\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.pdb
