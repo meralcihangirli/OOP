@@ -12,7 +12,7 @@ namespace RecapDemo2
         {
             CustomerManager customerManager = new CustomerManager();
             customerManager.Logger=new DatabaseLogger();
-            customerManager.Add();
+            customerManager.Add()
             Console.ReadLine();
         }
     }

@@ -1,0 +1,7 @@
+E:\Tobeto\CSharp\OOP\Constructors\bin\Debug\Constructors.exe.config
+E:\Tobeto\CSharp\OOP\Constructors\bin\Debug\Constructors.exe
+E:\Tobeto\CSharp\OOP\Constructors\bin\Debug\Constructors.pdb
+E:\Tobeto\CSharp\OOP\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+E:\Tobeto\CSharp\OOP\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+E:\Tobeto\CSharp\OOP\Constructors\obj\Debug\Constructors.exe
+E:\Tobeto\CSharp\OOP\Constructors\obj\Debug\Constructors.pdb
