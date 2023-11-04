@@ -1,0 +1,7 @@
+E:\Tobeto\CSharp\OOP\Collections\bin\Debug\Collections.exe.config
+E:\Tobeto\CSharp\OOP\Collections\bin\Debug\Collections.exe
+E:\Tobeto\CSharp\OOP\Collections\bin\Debug\Collections.pdb
+E:\Tobeto\CSharp\OOP\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+E:\Tobeto\CSharp\OOP\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+E:\Tobeto\CSharp\OOP\Collections\obj\Debug\Collections.exe
+E:\Tobeto\CSharp\OOP\Collections\obj\Debug\Collections.pdb
