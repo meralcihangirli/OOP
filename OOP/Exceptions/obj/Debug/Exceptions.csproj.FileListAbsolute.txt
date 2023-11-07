@@ -1,0 +1,7 @@
+E:\Tobeto\CSharp\OOP\Exceptions\bin\Debug\Exceptions.exe.config
+E:\Tobeto\CSharp\OOP\Exceptions\bin\Debug\Exceptions.exe
+E:\Tobeto\CSharp\OOP\Exceptions\bin\Debug\Exceptions.pdb
+E:\Tobeto\CSharp\OOP\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+E:\Tobeto\CSharp\OOP\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+E:\Tobeto\CSharp\OOP\Exceptions\obj\Debug\Exceptions.exe
+E:\Tobeto\CSharp\OOP\Exceptions\obj\Debug\Exceptions.pdb
